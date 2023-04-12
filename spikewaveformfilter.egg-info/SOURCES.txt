@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+spikewaveformfilter/__init__.py
+spikewaveformfilter/model.py
+spikewaveformfilter.egg-info/PKG-INFO
+spikewaveformfilter.egg-info/SOURCES.txt
+spikewaveformfilter.egg-info/dependency_links.txt
+spikewaveformfilter.egg-info/requires.txt
+spikewaveformfilter.egg-info/top_level.txt
+spikewaveformfilter/model_pt/model.pt

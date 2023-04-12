@@ -1,0 +1,1 @@
+from spikewaveformfilter.model import WaveformSelectionNet

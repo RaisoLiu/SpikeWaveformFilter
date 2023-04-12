@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: spikewaveformfilter
+Version: 0.0.2
+Summary: Eliminate the units with waveforms that resemble fake waveforms from Kilosort2.
+Author: RaisoLiu
+Author-email: raisoliu@gmail.com
+Requires-Python: >=3.7
+License-File: LICENSE
